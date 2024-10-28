@@ -11,7 +11,7 @@ Esse é um projeto elaborado visando melhorar o dia a dia de trabalho de uma cli
 Tem como funcionalidades básicas: uma área de cadastro de pacientes; uma área para que sejam registradas as consultas, evoluções e demais anotações pertinentes ao serviço prestado; além de uma área onde seja possivel vizualizar os cadastros e registros, e também pesquisá-los por data ou paciente.
 Tem como funcionalidades adicionais ou futuras, a criação de um diário/bloco de notas, para que os pacientes consigam fazer anotações pertinentes ao periodo entre uma sessão e outra.
 
-## Checlist de progressos 
+## Checklist de progressos 
 
 - [ ] Implementação de uma tela inicial
 - [ ] Implementação de uma tela de Login
