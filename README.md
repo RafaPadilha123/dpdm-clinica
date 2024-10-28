@@ -20,6 +20,7 @@ Tem como funcionalidades adicionais ou futuras, a criação de um diário/bloco 
 - [ ] Implementação de tela de listagem de clientes
 - [ ] Implementação de tela de cadastro de relatórios
 - [ ] Implementação de tela de listagem de relatórios
+- [ ] Implementação do banco de dados
 - [ ] Finalização
 
 ## Protótipo de telas
