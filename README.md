@@ -13,13 +13,14 @@ Tem como funcionalidades adicionais ou futuras, a criação de um diário/bloco 
 
 ## Checlist de progressos 
 
-[] Implementação de tela de Login e Senha
-[] Implementação de tela de cadastro de pacientes
-[] Implementação de tela de edição de pacientes
-[] Implementação de tela de remoção de pacientes
-[] Implementação de tela de listagem de pacientes
-[] Implementação de tela de cadastro de relatório de consultas
-[] Implementação de tela para visualização de relatórios, contendo barra de pesquisa
+- [ ] Implementação de uma tela inicial
+- [ ] Implementação de uma tela de Login
+- [ ] Implementação de uma tela principal
+- [ ] Implementação de tela de cadastro de clientes
+- [ ] Implementação de tela de listagem de clientes
+- [ ] Implementação de tela de cadastro de relatórios
+- [ ] Implementação de tela de listagem de relatórios
+- [ ] Finalização
 
 ## Protótipo de telas
 
