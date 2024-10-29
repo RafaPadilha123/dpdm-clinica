@@ -38,12 +38,14 @@ Uso do Firebase ***
         Configurar o ambiente e criar a estrutura básica do projeto.
 
 - [ ] Autenticação para Login
+      
         Criar a interface da tela de login com campos de entrada (email e senha).
         Configurar autenticação com o Firebase.
         Implementar validações de entrada e mensagens de erro.
 
 
 - [ ] Interface de Cadastro de Pacientes:
+      
         Criar a interface para o formulário de cadastro de pacientes.
         Definir campos principais: nome, idade, endereço, telefone, e email.
         Implementar validações básicas.
