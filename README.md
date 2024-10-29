@@ -29,6 +29,9 @@ https://www.figma.com/proto/gfjvGPZYZ9FMcw4arFj5hh/Espa%C3%A7o-Morada-Psicologia
 
 ## Modelagem do Banco de Dados
 
+Uso do Firebase ***
+
+
 ## Planejamento de Sprints
 
 - [ ] Configuração Inicial do Projeto:
